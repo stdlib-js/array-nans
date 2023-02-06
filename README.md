@@ -41,7 +41,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@esm/index.mjs';
+import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.0.1-esm/index.mjs';
 ```
 
 #### nans( length\[, dtype] )
@@ -99,7 +99,7 @@ var arr = nans( 2, 'float32' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-float-dtypes@esm/index.mjs';
-import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@esm/index.mjs';
+import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.0.1-esm/index.mjs';
 
 // Get a list of array data types:
 var dt = dtypes();
