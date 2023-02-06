@@ -41,6 +41,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-nans/tags). For example,
+
+```javascript
 import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.0.1-deno/mod.js';
 ```
 
@@ -94,7 +99,7 @@ var arr = nans( 2, 'float32' );
 
 ```javascript
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-float-dtypes@deno/mod.js';
-import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.0.1-deno/mod.js';
+import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@deno/mod.js';
 
 // Get a list of array data types:
 var dt = dtypes();
