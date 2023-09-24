@@ -54,7 +54,7 @@ limitations under the License.
 To use in Observable,
 
 ```javascript
-nans = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@umd/browser.js' )
+nans = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.1.0-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -66,7 +66,7 @@ var nans = require( 'path/to/vendor/umd/array-nans/index.js' )
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.1.0-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -132,7 +132,7 @@ var arr = nans( 2, 'float32' );
 <html lang="en">
 <body>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-float-dtypes@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.1.0-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
