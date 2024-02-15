@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/array-nans/tags). For example,
+
+```javascript
 import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.2.0-esm/index.mjs';
 ```
 
@@ -110,7 +115,7 @@ var arr = nans( 2, 'float32' );
 <script type="module">
 
 import dtypes from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-typed-float-dtypes@esm/index.mjs';
-import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@v0.2.0-esm/index.mjs';
+import nans from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-nans@esm/index.mjs';
 
 // Get a list of array data types:
 var dt = dtypes();
