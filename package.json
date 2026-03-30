@@ -38,6 +38,7 @@
   },
   "dependencies": {
     "@stdlib/array-base-assert-contains": "^0.2.3",
+    "@stdlib/array-base-join": "^0.1.2",
     "@stdlib/array-defaults": "^0.4.1",
     "@stdlib/array-dtypes": "^0.4.1",
     "@stdlib/array-full": "^0.3.1",

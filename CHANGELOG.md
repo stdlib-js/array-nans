@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-30)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`dfccbcd`](https://github.com/stdlib-js/stdlib/commit/dfccbcd1e30c2b7afc9b1c133b94ca96ac5751d2) - **refactor:** use dedicated utility for joining array elements _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2026-02-08)
