@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3186ff6`](https://github.com/stdlib-js/stdlib/commit/3186ff670bcc66153a58b94111f5688fa59170e7) - **docs:** fix alias _(by Athan Reines)_
 -   [`dfccbcd`](https://github.com/stdlib-js/stdlib/commit/dfccbcd1e30c2b7afc9b1c133b94ca96ac5751d2) - **refactor:** use dedicated utility for joining array elements _(by Athan Reines)_
 
 </details>
