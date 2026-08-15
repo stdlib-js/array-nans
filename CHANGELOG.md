@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-27)
+## Unreleased (2026-08-15)
+
+<section class="features">
+
+### Features
+
+-   [`f95a2e1`](https://github.com/stdlib-js/stdlib/commit/f95a2e1e1f7fb5bd69f9d403cc8f9b40a7b1defb) - add float16 dtype support to `array/nans` [(#14127)](https://github.com/stdlib-js/stdlib/pull/14127)
+
+</section>
+
+<!-- /.features -->
 
 <section class="commits">
 
@@ -12,6 +22,7 @@
 
 <details>
 
+-   [`f95a2e1`](https://github.com/stdlib-js/stdlib/commit/f95a2e1e1f7fb5bd69f9d403cc8f9b40a7b1defb) - **feat:** add float16 dtype support to `array/nans` [(#14127)](https://github.com/stdlib-js/stdlib/pull/14127) _(by Gururaj Gurram, Athan Reines)_
 -   [`3186ff6`](https://github.com/stdlib-js/stdlib/commit/3186ff670bcc66153a58b94111f5688fa59170e7) - **docs:** fix alias _(by Athan Reines)_
 -   [`dfccbcd`](https://github.com/stdlib-js/stdlib/commit/dfccbcd1e30c2b7afc9b1c133b94ca96ac5751d2) - **refactor:** use dedicated utility for joining array elements _(by Athan Reines)_
 
@@ -25,9 +36,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gururaj Gurram
 
 </section>
 
